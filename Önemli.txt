@@ -1,2 +1,4 @@
 #güvenli kurulum
 sunucu kodu size istemci karşıdakine yollayin
+#dikkat
+ip ve portu size uygun değistirin😁
