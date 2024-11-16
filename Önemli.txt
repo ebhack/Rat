@@ -1,0 +1,2 @@
+#güvenli kurulum
+sunucu kodu size istemci karşıdakine yollayin
