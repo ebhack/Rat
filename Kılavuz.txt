@@ -1,0 +1,38 @@
+# My Project
+
+Bu proje, uzaktan bağlantı ve uygulama kontrolü sağlamak için bir istemci-sunucu uygulamasıdır.
+
+## Kurulum
+
+1. Depoyu klonlayın:
+    ```bash
+    git clone https://github.com/kullanıcı_adı/my_project.git
+    cd my_project
+    ```
+
+2. Gereksinimleri yükleyin:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. Uygulamayı başlatın:
+    ```bash
+    python client.py
+    ```
+
+## Kullanım
+
+- **Sunucu başlatma**:
+    ```bash
+    python server.py
+    ```
+    
+- **Komutlar**:
+    - `search:<query>`: Google'da arama yapar.
+    - `screenshot`: Ekran görüntüsü alır.
+    - `run:<program>`: Program çalıştırır.
+    - `shutdown`: Bilgisayarı kapatır.
+
+## Lisans
+
+MIT
